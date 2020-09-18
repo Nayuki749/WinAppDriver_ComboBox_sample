@@ -10,7 +10,7 @@ namespace WinAppDriver_ComboBox_Test_Sample
     public class WindowSession
     {
         protected const string WindowsApplicationDriverUrl = "http://127.0.0.1:4723";
-        private const string AppId = @"UreDirectory\WinAppDriver_ComboBox_sample.exe";
+        private const string AppId = @"YourDirectory\WinAppDriver_ComboBox_sample.exe";
 
         protected static WindowsDriver<WindowsElement> session;
 

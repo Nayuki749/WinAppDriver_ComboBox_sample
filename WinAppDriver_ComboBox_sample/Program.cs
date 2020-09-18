@@ -16,7 +16,7 @@ namespace WinAppDriver_ComboBox_sample
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ComboBox_Test_Form());
         }
     }
 }

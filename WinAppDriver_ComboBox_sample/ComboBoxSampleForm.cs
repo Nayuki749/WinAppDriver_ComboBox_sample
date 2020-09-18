@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinAppDriver_ComboBox_sample
 {
-    public partial class Form1 : Form
+    public partial class ComboBox_Test_Form : Form
     {
-        public Form1()
+        public ComboBox_Test_Form()
         {
             InitializeComponent();
         }
